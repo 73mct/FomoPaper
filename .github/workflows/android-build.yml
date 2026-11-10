@@ -24,7 +24,7 @@ jobs:
 
       - name: Extract Android project
         run: |
-          unzip -o PaperFlip-Android-v0.1-fixed2.zip
+          unzip -o PaperFlip-Android-v0.1-fixed3.zip
           chmod +x PaperFlipAndroid/gradlew
 
       - name: Build debug APK
